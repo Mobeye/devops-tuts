@@ -1,0 +1,3 @@
+docker/meteor/bundle
+docker/nginx/bundle
+.vagrant
